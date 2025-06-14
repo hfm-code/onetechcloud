@@ -17,13 +17,9 @@
 - **香港CN2**：电信去回CN2，联通CUG，移动CMI。阿里云同款精品线路，建站优选。**广播IP**。
 - **香港CMI大带宽**：去程直连，三网回程CMI。**广播IP**。
 
-<table>
-  <tr>
-    <td><img src="https://github.com/hfm-code/onetechcloud/blob/main/cn2.png" width="600"/></td>
-    <td><img src="https://github.com/hfm-code/onetechcloud/blob/main/9929.png" width="600"/></td>
-  </tr>
-</table>
-
+![](https://github.com/hfm-code/onetechcloud/blob/main/cn2.png "电信CN2GIA回程")
+![](https://github.com/hfm-code/onetechcloud/blob/main/9929.png "联通9929，移动CMIN2回程")
+![](https://github.com/hfm-code/onetechcloud/blob/main/ipjiance.png "检测为住宅IP")
 
 ## 💼 套餐价格（优惠前）
 | **机房/线路**       | **配置**         | **带宽**          | **价格（月付）** |
