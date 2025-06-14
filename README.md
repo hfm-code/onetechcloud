@@ -19,8 +19,8 @@
 
 <table>
   <tr>
-    <td><img src="https://github.com/hfm-code/onetechcloud/blob/main/cn2.png" width="200"/></td>
-    <td><img src="https://github.com/hfm-code/onetechcloud/blob/main/9929.png" width="200"/></td>
+    <td><img src="https://github.com/hfm-code/onetechcloud/blob/main/cn2.png" width="600"/></td>
+    <td><img src="https://github.com/hfm-code/onetechcloud/blob/main/9929.png" width="600"/></td>
   </tr>
 </table>
 
