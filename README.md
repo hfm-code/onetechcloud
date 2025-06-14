@@ -1,7 +1,7 @@
 # 🌟双ISP住宅IP/原生IP/纯净IP，三网回程CN2，9929精品线路————OneTechCloud 易科云
 
 ## 🚀 厂商简介
-**OneTechCloud（易科云）** 成立于2019年，是一家专注于提供优化线路云服务器的国人主机商。尽管定位小众，但其以 **CN2 GIA/AS9929/AS4837 等三网优化线路** 和 **双ISP住宅IP/原生IP/纯净IP** 为核心卖点，迅速在国内外贸、建站及流媒体解锁用户中积累口碑。支持月付/季付灵活付费模式，价格亲民。
+**OneTechCloud（易科云）** 以 **CN2 GIA/AS9929/AS4837 等三网优化线路** 和 **双ISP住宅IP/原生IP/纯净IP** 价格亲民，极具性价比，口碑良好。
 [点击进入官网](https://www.onetechcloud.com/aff/NQBWATWT)
 
 ---
@@ -48,8 +48,7 @@
 
 ---
 
-## ⚠️ 注意事项
-- **带宽限制**：禁止长期占用高带宽，部分套餐限制安装Windows系统（内存<2G）。
-- **代理注意**：香港CN2 机型禁止代理，其他机型（美西CN2、GIA美西4827、美西9929、美国Cera、香港CMI大带宽）无限制
+## ⚠️ 特别说明
+- 香港CN2 机型禁止代理，其他机型（美西CN2、GIA美西4827、美西9929、美国Cera、香港CMI大带宽）无限制，可放心搭建服务
 
-> 📌 **总结**：OneTechCloud 以 **低价+优化线路+原生+纯净IP** 的组合拳，成为中小企业和个人用户的高性价比选择。立即访问 [官网](https://www.onetechcloud.com/aff/NQBWATWT) 使用优惠码，开启高速云体验！ 🚀
+> 立即访问 [OneTechCloud官网](https://www.onetechcloud.com/aff/NQBWATWT) 使用优惠码，开启高速云体验！ 🚀
