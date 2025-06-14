@@ -1,11 +1,9 @@
 # 🌟双ISP住宅IP/原生IP/纯净IP，三网回程CN2，9929精品线路————OneTechCloud 易科云
 
 ## 🚀 厂商简介
-**OneTechCloud（易科云）** 以 **CN2 GIA/AS9929/AS4837 等三网优化线路** 和 **双ISP住宅IP/原生IP/纯净IP** 价格亲民，极具性价比，口碑良好。
+**OneTechCloud（易科云）** 以 **CN2GIA，9929三网回程精品线路** 和 **双ISP住宅IP/原生IP/纯净IP** 价格亲民，极具性价比，口碑良好。
 [点击进入官网](https://www.onetechcloud.com/aff/NQBWATWT)
-
 ---
-
 ## 🔥 核心优势
 ### **优质线路 纯净IP**
 - **美西CN2 GIA**：去程直连，回程三网CN2 GIA，**原生IP**，可解锁Netflix|Tik Tok|CHATGPT等大部分流媒体或应用。
@@ -42,6 +40,6 @@
 ---
 
 ## ⚠️ 特别说明
-- 香港CN2 机型禁止代理，其他机型（美西CN2、GIA美西4827、美西9929、美国Cera、香港CMI大带宽）无限制，可放心搭建服务
+- 香港CN2 机型**禁止代理用途**，其余机型（美西CN2、GIA美西4827、美西9929、美国Cera、香港CMI大带宽）**无限制**，可放心搭建服务
 
 > 立即访问 [OneTechCloud官网](https://www.onetechcloud.com/aff/NQBWATWT)
