@@ -21,7 +21,7 @@
 ![](https://github.com/hfm-code/onetechcloud/blob/main/9929.png "联通9929，移动CMIN2回程")
 ![](https://github.com/hfm-code/onetechcloud/blob/main/ipjiance.png "检测为住宅IP")
 
-## 💼 套餐价格（优惠前）
+## 💼 套餐价格
 | **机房/线路**       | **配置**         | **带宽**          | **价格（月付）** |
 |----------------------|------------------|---------------------|------------------|
 | **美西CN2 GIA**      | 1核512M/20G SSD 起 | **50Mbps** 起     | ¥38起（季付8.8折）      |
