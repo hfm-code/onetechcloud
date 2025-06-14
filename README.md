@@ -1,4 +1,4 @@
-# 双ISP住宅IP/原生IP/纯净IP解锁流媒体ChatGPT，助力跨境电商，三网回程CN2GIA，9929精品线路——OneTechCloud 易科云
+# 双ISP住宅IP/原生IP/纯净IP，解锁流媒体ChatGPT TK，助力跨境电商，三网回程CN2GIA，9929精品线路——OneTechCloud 易科云
 
 ## 🚀 厂商简介
 **OneTechCloud（易科云）** 以 **CN2GIA，9929三网回程精品线路** 和 **双ISP住宅IP/原生IP/纯净IP** 为核心竞争力，价格亲民，极具性价比，口碑良好。
