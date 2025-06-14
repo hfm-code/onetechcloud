@@ -1,7 +1,7 @@
-# 🌟双ISP住宅IP/原生IP/纯净IP，三网回程CN2GIA，9929精品线路————OneTechCloud 易科云
+# 🌟双ISP住宅IP/原生IP/纯净IP解锁流媒体ChatGPT，助力跨境电商，三网回程CN2GIA，9929精品线路————OneTechCloud 易科云
 
 ## 🚀 厂商简介
-**OneTechCloud（易科云）** 以 **CN2GIA，9929三网回程精品线路** 和 **双ISP住宅IP/原生IP/纯净IP** 价格亲民，极具性价比，口碑良好。
+**OneTechCloud（易科云）** 以 **CN2GIA，9929三网回程精品线路** 和 **双ISP住宅IP/原生IP/纯净IP** 为核心竞争力，价格亲民，极具性价比，口碑良好。
 [点击进入官网](https://www.onetechcloud.com/aff/NQBWATWT)
 
 ---
@@ -42,6 +42,7 @@
 ---
 
 ## ⚠️ 特别说明
-- 香港CN2 机型**禁止代理用途**，其余机型（美西CN2、GIA美西4827、美西9929、美国Cera、香港CMI大带宽）**无限制**，可放心搭建服务
+- 美西CN2GIA、美西4827、美西9929、美国Cera、香港CMI大带宽**可搭建代理服务**
+- 香港CN2机型**禁止代理用途**
 
 > 立即访问 [OneTechCloud官网](https://www.onetechcloud.com/aff/NQBWATWT)
